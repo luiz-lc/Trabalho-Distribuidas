@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatheusCPimentel/BeTheHero-BackEnd.git"
+    "url": "git+https://github.com/luiz-lc/Trabalho-Distribuidas.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MatheusCPimentel/BeTheHero-BackEnd/issues"
+    "url": "https://github.com/luiz-lc/Trabalho-Distribuidas/issues"
   },
-  "homepage": "https://github.com/MatheusCPimentel/BeTheHero-BackEnd#readme",
+  "homepage": "https://github.com/luiz-lc/Trabalho-Distribuidas#readme",
   "dependencies": {
     "celebrate": "^12.0.1",
     "cors": "^2.8.5",
